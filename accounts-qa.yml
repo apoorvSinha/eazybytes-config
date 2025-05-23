@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to EazyBank accounts related QA APIs "
   contactDetails:
-    name: "Apoorv Sinha - QA Lead"
+    name: "Apoorv Sinha - SDET-2"
     email: "sinhapoo@eazybank.com"
   onCallSupport:
     - (666) 265-3765
